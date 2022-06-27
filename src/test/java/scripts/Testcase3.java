@@ -30,7 +30,7 @@ public class Testcase3 extends BaseClass{
 		ad.whishList();
 		
 		
-		//Assert.assertEquals(driver.getTitle(), "hhvhfhfihifj");
+
 	}
 
 }
